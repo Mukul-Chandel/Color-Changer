@@ -1,0 +1,33 @@
+.canvas{
+    text-align: center;
+    
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    margin: 120px;
+}
+.button{
+height: 120px;
+width: 120px;
+    
+    
+}
+
+#grey{
+    background-color: grey;
+    
+}
+
+#white{
+    background-color: white;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#yellow{
+    background-color: yellow;
+}
